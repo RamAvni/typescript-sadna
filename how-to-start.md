@@ -16,3 +16,6 @@ In order to start doing the exercises:
 ```
 
 4. Great! you have javascript files! Now find the exercise file you want to run, and run it with `node`!
+
+NOTE:
+If you have tab-autocomplete, remove it!!
