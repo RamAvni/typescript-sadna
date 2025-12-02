@@ -25,7 +25,7 @@ interface Pond {
 //
 // function quackAway(pond: unknown) {
 //   pond.ducks.forEach((duck: unknown) => {
-//     console.log(`The ${duck.name} has ducked with: ${duck.quackWord}!`);
+//     console.log(`The ${duck.name} has ducked with: "${duck.quackWord}"`);
 //   });
 // }
 
