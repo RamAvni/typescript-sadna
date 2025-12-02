@@ -3,7 +3,7 @@
 	You only need to make it compile! (No errors!)
 */
 
-type featherColor =
+type FeatherColor =
   | "white"
   | "black"
   | "pink"
@@ -13,7 +13,7 @@ type featherColor =
 
 interface Duck {
   cuteName: string;
-  featherColor: featherColor;
+  featherColor: FeatherColor;
   quackWord: string;
 }
 
