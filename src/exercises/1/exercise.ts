@@ -7,6 +7,7 @@
 
 	Exercise:
     Given the data, define the **interface** "User" and use it accordingly.
+		You only need to make it compile! (No errors!)
 */
 
 // To start, uncomment me!

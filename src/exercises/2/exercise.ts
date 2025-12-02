@@ -1,5 +1,6 @@
 /*
  	Exercise #2: make this code work
+	You only need to make it compile! (No errors!)
 */
 
 interface Duck {
@@ -11,8 +12,6 @@ interface Duck {
 interface Pond {
   name: string;
 }
-
-// ???
 
 // To start, uncomment me!
 //
