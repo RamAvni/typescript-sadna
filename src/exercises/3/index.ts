@@ -3,6 +3,7 @@
 Intro:
 Exercise: log all swimming ducks
 
+you can also make them quack! (if you want to)
 */
 
 // import { birds } from "./birds.const";
