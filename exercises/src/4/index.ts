@@ -19,3 +19,4 @@ function login(user: unknown) {
 users.forEach((user) => {
   login(user);
 });
+console.log("hi");
